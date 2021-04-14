@@ -79,6 +79,7 @@ Physics (from Ancient Greek: φυσική (ἐπιστήμη), romanized: physik
 ```
 ## GUI and Examples
 ### Google Translate
-<img src="https://raw.githubusercontent.com/siyuccchen/Friend-Chatbot-Individual-Project/main/Google%20Translate.png" width="400" height="500">
+<img src="https://raw.githubusercontent.com/siyuccchen/Friend-Chatbot-Individual-Project/main/Google%20Translate.png" width="350" height="500">
+
 ### Wikipedia
 <img src="https://raw.githubusercontent.com/siyuccchen/Friend-Chatbot-Individual-Project/main/Wikipedia.png" width="1700" height="300">
